@@ -13,5 +13,6 @@
   "primaryTokenAttribute": "track.physical",
   "secondaryTokenAttrubte": "track.stun",
   "gridDistance": 1,
-  "gridUnits": "m"
+  "gridUnits": "m",
+  "download": "https://"
 }
