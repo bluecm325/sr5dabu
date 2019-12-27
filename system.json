@@ -1,0 +1,17 @@
+{
+  "name": "sr5dabu",
+  "title": "Shadowrun 5e",
+  "description": "Shadowrun 5th Edition.",
+  "version": "0.0.1",
+  "author": "bluecm325",
+  "scripts": [ ],
+  "styles": [css/main.css"],
+  "minimumCoreVersion": "0.4.0",
+  "packs": [ ],
+  "languages": ["en"],
+  "initiative": "5d6",
+  "primaryTokenAttribute": "track.physical",
+  "secondaryTokenAttrubte": "track.stun",
+  "gridDistance": 1,
+  "gridUnits": "m"
+}
